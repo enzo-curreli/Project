@@ -1,0 +1,13 @@
+.btn-red{
+  background-color: #d2cf6e;
+  color: black;
+  padding: 22px 65px;
+  border-radius: 4px;
+  font-size: 24px;
+
+}
+
+.btn-red:hover{
+  background-color: #47a2bb;
+  color: white;
+}

@@ -1,0 +1,41 @@
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card{
+  flex-basis: 270px;
+  flex-grow: 1;
+  margin: 10px;
+}
+
+.card{
+  width: 700px;
+  background: white;
+  padding: 40px;
+  margin: 20px 0px;
+  border-radius: 4px;
+  box-shadow: 0 10px 30px rgba(54,29,46,0.5);
+  text-align: center;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  margin: 10px;
+}
+.card img {
+  width: 150px;
+  border-radius: 5px;
+}
+.card h3 {
+  flex-grow: 1;
+  padding-left: 20px;
+}
+
+#fonctionnalité{
+  width: 50px;
+  border-radius: 5px;
+}

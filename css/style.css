@@ -1,0 +1,33 @@
+
+@import url("https://fonts.googleapis.com/css?family=Bungee|Great+Vibes|Tomorrow:300,400,500,700&display=swap");
+
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+@import url("components/banner2.css");
+@import url("components/card2.css");
+
+body {
+  font-family: 'Tomorrow';
+  font-size: 18px;
+  background-color: #f3f3f352;
+}
+
+h1{
+  font-family: 'Bungee';
+  font-size: 40px;
+}
+
+h2{
+  font-family: 'Tomorrow';
+  font-weight: bold;
+
+
+}
+a{
+  color: #cc3232;
+  text-decoration: none;
+}
+
+
